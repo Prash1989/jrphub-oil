@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JRP Oils Website v1
 
 Premium, responsive Phase 1 corporate product showcase for JRP Oils.
@@ -17,3 +18,7 @@ Upload all files and folders to a GitHub repository and enable GitHub Pages from
 - Connect the inquiry form to Brevo, Formspree, a backend API, or another form service.
 - Replace placeholder certification references with officially approved certifications only.
 - Add real social media URLs.
+=======
+# jrphub-oil
+Oil Business
+>>>>>>> 0744ea14d711ad8154e15fd7f77cb9171076fa04
